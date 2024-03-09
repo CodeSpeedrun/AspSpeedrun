@@ -1,0 +1,2 @@
+EntityFrameworkCore.SqlServer
+.Tools
