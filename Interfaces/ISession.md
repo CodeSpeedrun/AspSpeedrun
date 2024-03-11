@@ -1,6 +1,6 @@
 ## Travailler avec les Sessions
 
-Les sessions dans ASP.NET Core permettent de stocker des informations spécifiques à un utilisateur à travers plusieurs requêtes. Cela peut être particulièrement utile pour maintenir l'état de l'utilisateur, tel que les articles du panier d'achat ou les préférences de l'utilisateur. Dans ce fichier markdown, nous explorerons l'interface `ISession` et comment l'utiliser au sein d'une application ASP.NET Core.
+Les sessions dans ASP.NET Core permettent de stocker des informations spécifiques à un utilisateur à travers plusieurs requêtes. Cela peut être particulièrement utile pour maintenir l'état de l'utilisateur, tel que les articles du panier d'achat ou les préférences de l'utilisateur. Dans ce tuto, nous explorerons l'interface `ISession` et comment l'utiliser au sein d'une application ASP.NET Core.
 
 ### Introduction à l'Interface ISession
 

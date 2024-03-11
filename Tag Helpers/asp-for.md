@@ -58,6 +58,3 @@ Dans cet exemple, l'assistant `asp-for` est utilisé pour générer les élémen
 ## Conclusion
 
 Comprendre l'assistant de balise `asp-for` est essentiel pour créer des applications ASP.NET Core robustes. En tirant parti de ses capacités, les développeurs peuvent rationaliser le processus de création de formulaires HTML et garantir une interaction fluide entre le côté serveur et le côté client.
-```
-
-Ce document Markdown fournit une explication détaillée de l'assistant de balise `asp-for` dans ASP.NET Core, y compris sa syntaxe, son utilisation, des exemples, des avantages, des notes supplémentaires et une conclusion. Il sert de guide complet pour les développeurs souhaitant approfondir leur compréhension de cette fonctionnalité essentielle.

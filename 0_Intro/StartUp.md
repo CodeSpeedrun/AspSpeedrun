@@ -1,6 +1,6 @@
-# Configuration et Mise en Place d'une Application ASP.NET Core 3.0
+# Configuration et Mise en Place d'une Application ASP.NET Core  
 
-Dans ce guide, nous allons explorer la configuration et la mise en place d'une application ASP.NET Core 3.0, en mettant l'accent sur la classe `Startup`. Cette classe joue un rôle central dans la configuration des services, des middleware et du pipeline de traitement des requêtes.
+Dans ce guide, nous allons explorer la configuration et la mise en place d'une application ASP.NET Core, en mettant l'accent sur la classe `Startup`. Cette classe joue un rôle central dans la configuration des services, des middleware et du pipeline de traitement des requêtes.
 
 ## La Classe `Startup`
 

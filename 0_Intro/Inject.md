@@ -1,6 +1,6 @@
 # Injection de dépendances dans ASP.NET Core
 
-Dans ASP.NET Core, l'injection de dépendances (DI) est un motif puissant qui vous permet de découpler les composants de votre application et de gérer efficacement leurs dépendances. Ce document markdown vise à fournir une explication détaillée et un exemple de l'utilisation de DI dans une application ASP.NET Core.
+Dans ASP.NET Core, l'injection de dépendances (DI) est un motif puissant qui vous permet de découpler les composants de votre application et de gérer efficacement leurs dépendances. Ce document  vise à fournir une explication détaillée et un exemple de l'utilisation de DI dans une application ASP.NET Core.
 
 ## Introduction à l'injection de dépendances
 

@@ -1,7 +1,7 @@
  
 # ASP.NET Core : Compréhension des vues partielles
 
-Dans ASP.NET Core, les vues partielles fournissent un moyen d'encapsuler des sections réutilisables d'une page Web. Elles permettent aux développeurs de créer des composants modulaires et de les réutiliser dans plusieurs vues. Ce document Markdown explore en détail le concept de vues partielles dans ASP.NET Core.
+Dans ASP.NET Core, les vues partielles fournissent un moyen d'encapsuler des sections réutilisables d'une page Web. Elles permettent aux développeurs de créer des composants modulaires et de les réutiliser dans plusieurs vues. Ce document explore en détail le concept de vues partielles dans ASP.NET Core.
 
 ## Qu'est-ce que les Vues Partielles ?
 
