@@ -4,7 +4,7 @@
 # ASP.NET Core ViewResult (Résultat de Vue)
 
 ## Introduction
-`ViewResult` dans ASP.NET Core est une classe fondamentale qui représente un résultat de vue, généralement utilisée pour rendre une vue dans le navigateur du client en réponse à une requête HTTP. Ce document markdown vise à fournir une compréhension approfondie de `ViewResult`, y compris son utilisation, ses propriétés et des exemples.
+`ViewResult` dans ASP.NET Core est une classe fondamentale qui représente un résultat de vue, généralement utilisée pour rendre une vue dans le navigateur du client en réponse à une requête HTTP. Ce tuto vise à fournir une compréhension approfondie de `ViewResult`, y compris son utilisation, ses propriétés et des exemples.
 
 ## Utilisation
 `ViewResult` est généralement retourné à partir des actions de contrôleur pour rendre le contenu HTML généré à partir d'une vue Razor.
